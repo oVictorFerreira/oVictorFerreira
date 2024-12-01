@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Victor Ferreira!
-- 🌱 Atualmente na faculdade de Engenharia de Software 
+- 💻 Engenharia de Software - Fiap
 - 😄 Pronomes: ele/dele
 ##
 <div>
