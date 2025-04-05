@@ -10,15 +10,15 @@
     
 ##
 
-<div>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ferreira-500b71289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  <a href="mailto:ferreirasvictorj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  <a href="https://wa.me/5511994277094"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<div style="text-align: center>
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-ferreira-500b71289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="mailto:ferreirasvictorj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href="https://wa.me/5511994277094"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </div>
 
 ##
     
-<div>
+<div style="text-align: center>
   <img height="50em" src="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" alt="HTML5">
   <img height="50em" src="https://camo.githubusercontent.com/4eaf7f26830ffa4bc4c4502a24e9be29fa2796208648a805e8f610da811aeb05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" alt="CSS3">
   <img height="50em" src="https://camo.githubusercontent.com/b757f08684d4442218bd04f3bb04cc0e142d0551619c678ff44304027085bb47/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" alt="Bootstrap">
