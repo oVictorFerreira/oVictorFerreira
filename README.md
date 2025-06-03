@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Victor Ferreira!
 - 💻 Engenharia de Software - Fiap
-- 😄 Pronomes: ele/dele
 ##
 <div align="center">
   <a href="https://github.com/oVictorFerreira">
