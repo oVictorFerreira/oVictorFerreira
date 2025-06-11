@@ -26,8 +26,6 @@ Atualmente sou estudante de **Engenharia de Software na FIAP (2024–2028)** e p
 - Desenvolvimento web (HTML, CSS, JavaScript)
 - Desenvolvimento de projetos pessoais com Python e banco de dados
 
----
-
 ##
 
   <div align="center">
@@ -36,7 +34,7 @@ Atualmente sou estudante de **Engenharia de Software na FIAP (2024–2028)** e p
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oVictorFerreira&layout=compact&langs_count=16&theme=dark">
   </div>
 
----
+##
 
 Se você curtir essa vibe de aprendizado, paixão por código e vontade de crescer, bora trocar ideia! :)
 
