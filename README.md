@@ -10,7 +10,7 @@ Atualmente sou estudante de **Engenharia de Software na FIAP (2024–2028)** e p
 
 ## ⚽ Outras paixões
 
-- Sou apaixonado por **futebol**, jogar bola é meu jeito favorito de relaxar e me divertir!
+- Sou apaixonado por **futebol**, assistir ao meu time é meu jeito favorito de relaxar e me divertir!
 - Tenho muito interesse em **aprender novos idiomas** e me comunicar com o mundo.
 - Adoro **viajar** e descobrir novas culturas, lugares e histórias.
 - Também toco **tamborim**, e a música faz parte da minha energia criativa!
