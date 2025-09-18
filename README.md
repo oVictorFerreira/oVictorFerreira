@@ -1,8 +1,4 @@
-# 👋 Olá, eu sou o João Victor — um estudante de Engenharia de Software apaixonado por tecnologia, viagens e cultura!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Victor%20Ferreira-blue?logo=linkedin)](https://www.linkedin.com/in/joao-victor-ferreira-500b71289/)
-[![GitHub](https://img.shields.io/badge/GitHub-oVictorFerreira-181717?logo=github)](https://github.com/oVictorFerreira)
-[![Email](https://img.shields.io/badge/E--mail-joao.ferreira362%40outlook.com-red?logo=gmail)](mailto:joao.ferreira362@outlook.com)
+# 👋 Olá, eu sou o João Victor — Estudante de Engenharia de Software!
 
 ## 💬 Sobre mim
 
@@ -40,12 +36,22 @@ Se você curtir essa vibe de aprendizado, paixão por código e vontade de cresc
 
 ---
 
-<div align="center">
-  <img height="50em" src="https://camo.githubusercontent.com/6647554cf19482c32acc6a6a3b8bd68b845fafabd474595e7e92dead3075c3ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" alt="HTML5">
-  <img height="50em" src="https://camo.githubusercontent.com/4eaf7f26830ffa4bc4c4502a24e9be29fa2796208648a805e8f610da811aeb05/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" alt="CSS3">
-  <img height="50em" src="https://camo.githubusercontent.com/b757f08684d4442218bd04f3bb04cc0e142d0551619c678ff44304027085bb47/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d6f726967696e616c2e737667" alt="Bootstrap">
-  <img height="50em" src="https://camo.githubusercontent.com/426c1121b29abc64a6b1af1e3aa3091abb38e39c87054720b765af1425c74e7f/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="JavaScript">
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python">
-  <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino">
-  <img height="50em" src="https://camo.githubusercontent.com/2e3402a95bea6acba7dd5d26566d797607b63a6bdec43942c8286fbf7db4a177/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" alt="GitHub">
+<div style="display: inline_block" align="center"><br>
+<img align="center" alt="Joao-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="center" alt="Joao-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="Joao-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<img align="center" alt="Joao-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="Joao-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Joao-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img align="center" alt="Joao-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="center" alt="Joao-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+<img align="center" alt="Joao-trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+<img align="center" alt="Joao-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+<img align="center" alt="Joao-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+
+<div align="center"><br>
+<a href="https://www.linkedin.com/in/joao-victor-ferreira-500b71289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a><br>
 </div>
+</div><br>
+
+
