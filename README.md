@@ -1,3 +1,5 @@
+<div class="tenor-gif-embed" data-postid="24043741" data-share-method="host" data-aspect-ratio="2.07792" data-width="100%"><a href="https://tenor.com/view/github-welcome-gif-24043741">Github Welcome GIF</a>from <a href="https://tenor.com/search/github+welcome-gifs">Github Welcome GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 # Sobre mim  
 
 Olá! Eu sou o **João Victor**, estudante de **Engenharia de Software na FIAP (2024–2028)** e apaixonado por tecnologia e desenvolvimento de sistemas.  
