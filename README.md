@@ -1,5 +1,4 @@
-<img src="https://media1.tenor.com/m/CA3bTDL4atwAAAAd/github-welcome.gif" width="1000px" height="200" alt="a black background with the words bem-vindo ao meu perfil in white letters" fetchpriority="high" style="max-width: 100;">
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+Bem+Vindo!;:))](https://git.io/typing-svg)
 # Sobre mim  
 
 Olá! Eu sou o **João Victor**, estudante de **Engenharia de Software na FIAP (2024–2028)** e apaixonado por tecnologia e desenvolvimento de sistemas.  
