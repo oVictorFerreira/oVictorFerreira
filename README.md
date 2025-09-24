@@ -21,11 +21,6 @@ Minha trajetória começou na área administrativa, atuando no setor de suprimen
 Me considero uma pessoa comunicativa, colaborativa e com grande facilidade para aprender coisas novas. Estou sempre em busca de desafios que me permitam evoluir e aplicar na prática o que venho aprendendo.  
 
 **Objetivo**: conseguir meu primeiro estágio em **Engenharia de Software** ou áreas correlatas, onde eu possa unir aprendizado e contribuição, trabalhando em equipe para construir soluções inovadoras e eficientes.  
-
-## 📫 Vamos nos conectar?
-- [LinkedIn](https://www.linkedin.com/in/joao-victor-ferreira-500b71289/)  
-- [GitHub](https://github.com/oVictorFerreira)  
-
 ##
 
   <div align="center">
