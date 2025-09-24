@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E64B8&center=true&width=1000&height=200&lines=Seja+bem+vindo!)](https://git.io/typing-svg)# Sobre mim  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=0E64B8&center=true&width=1000&lines=Seja+bem+vindo!)](https://git.io/typing-svg)
+
+
+# Sobre mim  
 
 Olá! Eu sou o **João Victor**, estudante de **Engenharia de Software na FIAP (2024–2028)** e apaixonado por tecnologia e desenvolvimento de sistemas.  
 
