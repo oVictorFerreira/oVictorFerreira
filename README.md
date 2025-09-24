@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/CA3bTDL4atwAAAAd/github-welcome.gif" width="100px" height="332.06250000000006" alt="a black background with the words bem-vindo ao meu perfil in white letters" fetchpriority="high" style="max-width: 100;">
+<img src="https://media1.tenor.com/m/CA3bTDL4atwAAAAd/github-welcome.gif" width="1000px" height="332.06250000000006" alt="a black background with the words bem-vindo ao meu perfil in white letters" fetchpriority="high" style="max-width: 100;">
 
 # Sobre mim  
 
