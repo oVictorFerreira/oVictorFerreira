@@ -1,26 +1,28 @@
-# 👋 Olá, eu sou o João Victor — Estudante de Engenharia de Software!
+# Sobre mim  
 
-## 💬 Sobre mim
+Olá! Eu sou o **João Victor**, estudante de **Engenharia de Software na FIAP (2024–2028)** e apaixonado por tecnologia e desenvolvimento de sistemas.  
 
-Atualmente sou estudante de **Engenharia de Software na FIAP (2024–2028)** e possuo formação técnica em Administração pela ETEC Getúlio Vargas. Atuei como Jovem Aprendiz na Teltex Tecnologia, no setor de suprimentos, com foco em controle de estoque, relatórios e organização de processos internos. Foi uma experiência valiosa, mas agora estou correndo atrás do que realmente faz meus olhos brilharem: a tecnologia e o desenvolvimento de software! Me considero um profissional em constante evolução: sou movido por aprendizado contínuo, inovação e vontade de construir soluções que gerem impacto real. Tenho conhecimento em **lógica de programação com Python**, **modelagem de dados** e **SQL básico**, além de familiaridade com **Git/GitHub** para versionamento de código. Estou buscando uma oportunidade como **estagiário em Engenharia de Software ou áreas correlatas**, onde eu possa aplicar meus conhecimentos, aprender com pessoas experientes e contribuir com entusiasmo e dedicação.
+Minha trajetória começou na área administrativa, atuando no setor de suprimentos da **Teltex Tecnologia**, onde desenvolvi organização, atenção aos detalhes e foco em resultados. Essa base me ajudou a ter disciplina e visão de processos, mas hoje sigo em direção ao que realmente me motiva: **criar soluções tecnológicas que façam diferença**.  
 
-## ⚽ Outras paixões
+## Tecnologias & Conhecimentos
+- **Programação**: Python, Java, SQL e lógica de programação  
+- **Desenvolvimento Web**: HTML, CSS e Git/GitHub  
+- **Modelagem de Dados**: lógica, física e SQL  
+- **Ferramentas de Produtividade**: Excel, Word, PowerPoint e Google Sheets  
 
-- Sou apaixonado por **futebol**, assistir ao meu time é meu jeito favorito de relaxar e me divertir!
-- Tenho muito interesse em **aprender novos idiomas** e me comunicar com o mundo.
-- Adoro **viajar** e descobrir novas culturas, lugares e histórias.
-- Também toco **tamborim**, e a música faz parte da minha energia criativa!
+## Soft Skills
+- Comunicação efetiva  
+- Trabalho em equipe  
+- Resolução de problemas  
+- Adaptabilidade  
 
-## 🛠️ Tech Stack
+Me considero uma pessoa comunicativa, colaborativa e com grande facilidade para aprender coisas novas. Estou sempre em busca de desafios que me permitam evoluir e aplicar na prática o que venho aprendendo.  
 
-### Linguagens e ferramentas
-- **Python** (lógica de programação)
-- **SQL** (consultas básicas, modelagem de dados)
-- **Git / GitHub** (versionamento)
+**Objetivo**: conseguir meu primeiro estágio em **Engenharia de Software** ou áreas correlatas, onde eu possa unir aprendizado e contribuição, trabalhando em equipe para construir soluções inovadoras e eficientes.  
 
-### Em aprendizado
-- Desenvolvimento web (HTML, CSS, JavaScript)
-- Desenvolvimento de projetos pessoais com Python e banco de dados
+## 📫 Vamos nos conectar?
+- [LinkedIn](https://www.linkedin.com/in/joao-victor-ferreira-500b71289/)  
+- [GitHub](https://github.com/oVictorFerreira)  
 
 ##
 
