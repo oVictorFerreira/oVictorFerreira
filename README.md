@@ -1,9 +1,4 @@
-<div class="tenor-gif-embed" data-postid="24043741" data-share-method="host" data-aspect-ratio="2.07792" data-width="100%">
-  <a href="https://tenor.com/view/github-welcome-gif-24043741">Github Welcome GIF</a>from <a href="https://tenor.com/search/github+welcome-gifs">
-    Github Welcome GIFs
-  </a>
-</div> 
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media1.tenor.com/m/CA3bTDL4atwAAAAd/github-welcome.gif" width="690" height="332.06250000000006" alt="a black background with the words bem-vindo ao meu perfil in white letters" fetchpriority="high" style="max-width: 100px;">
 
 # Sobre mim  
 
