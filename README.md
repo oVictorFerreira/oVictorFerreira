@@ -6,10 +6,9 @@ Olá! Eu sou o **João Victor**, estudante de **Engenharia de Software na FIAP (
 Minha trajetória começou na área administrativa, atuando no setor de suprimentos da **Teltex Tecnologia**, onde desenvolvi organização, atenção aos detalhes e foco em resultados. Essa base me ajudou a ter disciplina e visão de processos, mas hoje sigo em direção ao que realmente me motiva: **criar soluções tecnológicas que façam diferença**.  
 
 ## Tecnologias & Conhecimentos
-- **Programação**: Python, Java, SQL e lógica de programação  
-- **Desenvolvimento Web**: HTML, CSS e Git/GitHub  
+- **Programação**: Python, Java, SQL e lógica de programação    
 - **Modelagem de Dados**: lógica, física e SQL  
-- **Ferramentas de Produtividade**: Excel, Word, PowerPoint e Google Sheets  
+- **Ferramentas de Produtividade**: Excel, Word, PowerPoint, Google Sheets e Git/GitHub    
 
 ## Soft Skills
 - Comunicação efetiva  
