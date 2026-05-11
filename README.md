@@ -19,22 +19,10 @@ Minha trajetória começou na área administrativa, atuando no setor de suprimen
 Me considero uma pessoa comunicativa, colaborativa e com grande facilidade para aprender coisas novas. Estou sempre em busca de desafios que me permitam evoluir e aplicar na prática o que venho aprendendo.  
 
 **Objetivo**: conseguir meu primeiro estágio em **Engenharia de Software** ou áreas correlatas, onde eu possa unir aprendizado e contribuição, trabalhando em equipe para construir soluções inovadoras e eficientes.  
-##
-
-  <div align="center">
-    <a href="https://github.com/oVictorFerreira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oVictorFerreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oVictorFerreira&layout=compact&langs_count=16&theme=dark">
-  </div>
-
-##
 
 Se você curtir essa vibe de aprendizado, paixão por código e vontade de crescer, bora trocar ideia! :)
 
 ---
-
-<div style="display: inline_block" align="center"><br>
-<img align="center" alt="Joao-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 <div align="center"><br>
 <a href="https://www.linkedin.com/in/joão-victor-ferreira-500b71289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a><br>
